@@ -15,3 +15,6 @@ result on your browser.
 Use this address to see the result on your browser: http://127.0.0.1:5000/zipcode?city=Sunnyvale&state=CA
 Again you can make changes to the city and state to view your desired zip code.
 
+![Screenshot (260)](https://user-images.githubusercontent.com/122373939/215633750-56a3aacc-adc1-4bed-884a-5d42afd93634.png)
+![Screenshot (262)](https://user-images.githubusercontent.com/122373939/215633803-25c27fd9-fe7e-4033-b16b-3e4ababd22da.png)
+![Screenshot (261)](https://user-images.githubusercontent.com/122373939/215633811-c177e9cf-f224-4761-a920-91d302eed3f3.png)
