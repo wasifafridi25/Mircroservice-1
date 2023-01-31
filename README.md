@@ -15,6 +15,12 @@ result on your browser.
 Use this address to see the result on your browser: http://127.0.0.1:5000/zipcode?city=Sunnyvale&state=CA
 Again you can make changes to the city and state to view your desired zip code.
 
+Below is the link of the docker image in docker hub, you can pull it from here:
+https://hub.docker.com/repository/docker/wasifafridi25/microservice1/general
+
 ![Screenshot (260)](https://user-images.githubusercontent.com/122373939/215633750-56a3aacc-adc1-4bed-884a-5d42afd93634.png)
 ![Screenshot (262)](https://user-images.githubusercontent.com/122373939/215633803-25c27fd9-fe7e-4033-b16b-3e4ababd22da.png)
 ![Screenshot (261)](https://user-images.githubusercontent.com/122373939/215633811-c177e9cf-f224-4761-a920-91d302eed3f3.png)
+![Screenshot (264)](https://user-images.githubusercontent.com/122373939/215716891-8002ecfa-015b-4998-8777-aebdd411b826.png)
+![Screenshot (265)](https://user-images.githubusercontent.com/122373939/215716895-64bea1c5-6327-4610-8d5a-c93bd688889c.png)
+![Screenshot (263)](https://user-images.githubusercontent.com/122373939/215716898-20ac7202-1e64-4e6a-a2b5-f44349b211de.png)
