@@ -7,7 +7,7 @@ Change the city and state to see the desired zipcode.
 
 2nd Method:
 go to the project directory and build the docker image using the command:
-docker build -t my-app:1.0 .
+docker build -t zipcode:1.0 .
 After building the image run the container on port 5000. The command is in the line below:
 docker run -d -p 5000:8000 --name city_to_zipCode zipcode:1.0 
 Make sure this port is available on your host machine, if not change port and use one which is available. In that case use that specific port address to view the 
